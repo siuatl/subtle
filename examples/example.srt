@@ -1,0 +1,255 @@
+1
+00:00:00,850 --> 00:00:02,700
+Hello and welcome to the capstone.
+
+2
+00:00:02,700 --> 00:00:03,770
+We've been together now for
+
+3
+00:00:03,770 --> 00:00:08,360
+four courses and this capstone is
+supposed to be sort of summary.
+
+4
+00:00:08,360 --> 00:00:09,640
+It's more intimate.
+
+5
+00:00:09,640 --> 00:00:10,940
+It's more interesting.
+
+6
+00:00:10,940 --> 00:00:13,580
+So the first thing you're going
+to notice about the capstone,
+
+7
+00:00:13,580 --> 00:00:16,390
+it is completely open-ended.
+
+8
+00:00:16,390 --> 00:00:20,920
+It's really exciting as we see what you
+students do, the projects that you do,
+
+9
+00:00:20,920 --> 00:00:21,830
+it's really neat.
+
+10
+00:00:21,830 --> 00:00:23,910
+You choose your own data source.
+
+11
+00:00:23,910 --> 00:00:26,030
+You're going to be creative.
+
+12
+00:00:26,030 --> 00:00:31,770
+Some people do projects that are simple,
+just kind of to explore their skills,
+
+13
+00:00:31,770 --> 00:00:35,800
+but other people do something for
+work or something.
+
+14
+00:00:35,800 --> 00:00:39,240
+They're going to put in a portfolio and
+or something they're doing for
+
+15
+00:00:39,240 --> 00:00:43,120
+a non-profit or there's all
+kinds of things that you can do.
+
+16
+00:00:43,120 --> 00:00:45,730
+So in order to do this,
+
+17
+00:00:45,730 --> 00:00:49,890
+we've changed the format a little
+bit from the other courses.
+
+18
+00:00:49,890 --> 00:00:53,660
+First off, you have some choices.
+
+19
+00:00:53,660 --> 00:01:00,750
+We have an Honors Track and that gives
+you a certificate with Honors Track.
+
+20
+00:01:00,750 --> 00:01:03,220
+And so a lot of the assignments
+are in the Honors Track
+
+21
+00:01:03,220 --> 00:01:06,430
+because we know that some of
+you actually are in a hurry.
+
+22
+00:01:06,430 --> 00:01:08,100
+You're doing the whole specialization.
+
+23
+00:01:08,100 --> 00:01:09,745
+You want to get the certificate and
+you want to move on.
+
+24
+00:01:09,745 --> 00:01:15,440
+And so we understand that not everybody
+wants to take a long time in this course.
+
+25
+00:01:15,440 --> 00:01:20,150
+So you can actually just take the quiz
+which is really the final exam for
+
+26
+00:01:20,150 --> 00:01:22,530
+all the other classes and you can move on.
+
+27
+00:01:22,530 --> 00:01:27,020
+If you want to take a slower track,
+well, then you take the Honors Track.
+
+28
+00:01:27,020 --> 00:01:30,090
+All the assignments then
+are going to be peer-graded.
+
+29
+00:01:30,090 --> 00:01:33,060
+In the Honors Track,
+there's no more quizzes.
+
+30
+00:01:33,060 --> 00:01:37,740
+And what's really cool about this is
+the rules are completely different.
+
+31
+00:01:37,740 --> 00:01:39,490
+So if you go in the other courses,
+
+32
+00:01:39,490 --> 00:01:41,990
+what happens is we tell you're not
+allowed to post code to a forum.
+
+33
+00:01:43,170 --> 00:01:46,700
+And that's because all
+the programming assignments are so
+
+34
+00:01:46,700 --> 00:01:48,220
+simple in those first four courses.
+
+35
+00:01:48,220 --> 00:01:51,320
+And if you just put your code in and get
+the answer, we feel that you're cheating
+
+36
+00:01:51,320 --> 00:01:55,100
+yourself out of the learning just because
+we don't have hundreds of assignments.
+
+37
+00:01:55,100 --> 00:01:58,710
+If we had hundreds of assignments,
+getting through one would be different.
+
+38
+00:01:58,710 --> 00:01:59,740
+But we have so
+
+39
+00:01:59,740 --> 00:02:03,580
+few assignments that we want you to
+learn in each one of those assignments.
+
+40
+00:02:03,580 --> 00:02:07,010
+But now you need help and
+
+41
+00:02:07,010 --> 00:02:09,890
+you're working on potentially something
+completely different than everybody else.
+
+42
+00:02:09,890 --> 00:02:13,650
+So it's totally okay to use
+the forums to get help on your stuff.
+
+43
+00:02:13,650 --> 00:02:15,460
+You could even take your project.
+
+44
+00:02:15,460 --> 00:02:20,550
+You could put your project in GitHub and
+you could post a URL to your project
+
+45
+00:02:20,550 --> 00:02:24,240
+in a form and say hey,
+I'm having trouble or take a look at this.
+
+46
+00:02:24,240 --> 00:02:25,530
+Can you give me some suggestions?
+
+47
+00:02:25,530 --> 00:02:30,120
+And so you should use your fellow
+students as a resource, right?
+
+48
+00:02:30,120 --> 00:02:32,990
+You should use our teaching
+assistants as a resource.
+
+49
+00:02:32,990 --> 00:02:35,240
+We want this to be
+a learning community and
+
+50
+00:02:35,240 --> 00:02:40,030
+we want you to function as part of
+a learning community in this class.
+
+51
+00:02:40,030 --> 00:02:45,261
+And so we've changed the rules in a sense,
+flip the rules to make collaboration and
+
+52
+00:02:45,261 --> 00:02:49,760
+constructively working together,
+the foundation of this capstone.
+
+53
+00:02:49,760 --> 00:02:54,635
+And so I hope that you're going to be as
+excited about this idea of the capstone as
+
+54
+00:02:54,635 --> 00:02:55,235
+we are and
+
+55
+00:02:55,235 --> 00:03:00,350
+I really look forward to seeing what it is
+that you're going to do in this capstone.

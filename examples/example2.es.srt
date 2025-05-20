@@ -1,0 +1,20 @@
+1
+00:00:00,850 --> 00:00:02,700
+Hola y bienvenido a la piedra angular.
+
+2
+00:00:02,700 --> 00:00:03,770
+Hemos estado juntos ahora para
+
+3
+00:00:03,770 --> 00:00:08,360
+cuatro cursos y esta piedra angular es
+se supone que es una especie de resumen.
+
+4
+00:00:08,360 --> 00:00:09,640
+Es más íntimo.
+
+5
+00:00:09,640 --> 00:00:10,940
+Es más interesante.

@@ -1,0 +1,255 @@
+1
+00:00:00,850 --> 00:00:02,700
+Hola y bienvenido a la piedra angular.
+
+2
+00:00:02,700 --> 00:00:03,770
+Hemos estado juntos ahora para
+
+3
+00:00:03,770 --> 00:00:08,360
+cuatro cursos y esta piedra angular es
+se supone que es una especie de resumen.
+
+4
+00:00:08,360 --> 00:00:09,640
+Es más íntimo.
+
+5
+00:00:09,640 --> 00:00:10,940
+Es más interesante.
+
+6
+00:00:10,940 --> 00:00:13,580
+Entonces lo primero que vas
+para notar sobre la piedra angular,
+
+7
+00:00:13,580 --> 00:00:16,390
+Está completamente abierto.
+
+8
+00:00:16,390 --> 00:00:20,920
+Es realmente emocionante ya que vemos lo que tú
+Los estudiantes hacen los proyectos que haces,
+
+9
+00:00:20,920 --> 00:00:21,830
+es realmente ordenado.
+
+10
+00:00:21,830 --> 00:00:23,910
+Usted elige su propia fuente de datos.
+
+11
+00:00:23,910 --> 00:00:26,030
+Vas a ser creativo.
+
+12
+00:00:26,030 --> 00:00:31,770
+Algunas personas realizan proyectos que son simples,
+Solo para explorar sus habilidades,
+
+13
+00:00:31,770 --> 00:00:35,800
+Pero otras personas hacen algo por
+trabajo o algo.
+
+14
+00:00:35,800 --> 00:00:39,240
+Van a poner una cartera y
+o algo que están haciendo por
+
+15
+00:00:39,240 --> 00:00:43,120
+una organización sin fines de lucro o hay todo
+tipos de cosas que puedes hacer.
+
+16
+00:00:43,120 --> 00:00:45,730
+Entonces para hacer esto,
+
+17
+00:00:45,730 --> 00:00:49,890
+Hemos cambiado un poco el formato
+Bit de los otros cursos.
+
+18
+00:00:49,890 --> 00:00:53,660
+En primer lugar, tienes algunas opciones.
+
+19
+00:00:53,660 --> 00:01:00,750
+Tenemos una pista de honores y eso da
+Usted es un certificado con Track Honors.
+
+20
+00:01:00,750 --> 00:01:03,220
+Y así muchas de las tareas
+están en la pista de honores
+
+21
+00:01:03,220 --> 00:01:06,430
+Porque sabemos que algunos de
+En realidad tienes prisa.
+
+22
+00:01:06,430 --> 00:01:08,100
+Estás haciendo toda la especialización.
+
+23
+00:01:08,100 --> 00:01:09,745
+Desea obtener el certificado y
+quieres seguir adelante.
+
+24
+00:01:09,745 --> 00:01:15,440
+Y entonces entendemos que no todos
+Quiere tomar mucho tiempo en este curso.
+
+25
+00:01:15,440 --> 00:01:20,150
+Para que realmente puedas tomar el cuestionario
+¿Cuál es realmente el examen final para
+
+26
+00:01:20,150 --> 00:01:22,530
+Todas las otras clases y puedes seguir adelante.
+
+27
+00:01:22,530 --> 00:01:27,020
+Si quieres tomar una pista más lenta,
+Bueno, entonces tomas la pista de honores.
+
+28
+00:01:27,020 --> 00:01:30,090
+Todas las tareas entonces
+van a ser con clasificación de pares.
+
+29
+00:01:30,090 --> 00:01:33,060
+En la pista de honores,
+No hay más cuestionarios.
+
+30
+00:01:33,060 --> 00:01:37,740
+Y lo que es realmente genial de esto es
+Las reglas son completamente diferentes.
+
+31
+00:01:37,740 --> 00:01:39,490
+Entonces, si vas a los otros cursos,
+
+32
+00:01:39,490 --> 00:01:41,990
+Lo que sucede es que le decimos que no
+permitido publicar código a un foro.
+
+33
+00:01:43,170 --> 00:01:46,700
+Y eso es porque todo
+Las tareas de programación son tan
+
+34
+00:01:46,700 --> 00:01:48,220
+Simple en esos primeros cuatro cursos.
+
+35
+00:01:48,220 --> 00:01:51,320
+Y si solo pones tu código y obtienes
+la respuesta, sentimos que estás engañando
+
+36
+00:01:51,320 --> 00:01:55,100
+usted mismo fuera del aprendizaje solo porque
+No tenemos cientos de tareas.
+
+37
+00:01:55,100 --> 00:01:58,710
+Si tuviéramos cientos de tareas,
+Poner en uno sería diferente.
+
+38
+00:01:58,710 --> 00:01:59,740
+Pero tenemos SO
+
+39
+00:01:59,740 --> 00:02:03,580
+pocas tareas que queremos que
+Aprenda en cada una de esas tareas.
+
+40
+00:02:03,580 --> 00:02:07,010
+Pero ahora necesitas ayuda y
+
+41
+00:02:07,010 --> 00:02:09,890
+Estás trabajando en algo potencial
+completamente diferente a todos los demás.
+
+42
+00:02:09,890 --> 00:02:13,650
+Entonces está totalmente bien usar
+Los foros para obtener ayuda en tus cosas.
+
+43
+00:02:13,650 --> 00:02:15,460
+Incluso podrías tomar tu proyecto.
+
+44
+00:02:15,460 --> 00:02:20,550
+Podrías poner tu proyecto en Github y
+Podrías publicar una URL en tu proyecto
+
+45
+00:02:20,550 --> 00:02:24,240
+en forma y di, oye,
+Estoy teniendo problemas o eche un vistazo a esto.
+
+46
+00:02:24,240 --> 00:02:25,530
+¿Puedes darme algunas sugerencias?
+
+47
+00:02:25,530 --> 00:02:30,120
+Y entonces deberías usar a tu compañero
+Los estudiantes como recurso, ¿verdad?
+
+48
+00:02:30,120 --> 00:02:32,990
+Deberías usar nuestra enseñanza
+asistentes como recurso.
+
+49
+00:02:32,990 --> 00:02:35,240
+Queremos que esto sea
+una comunidad de aprendizaje y
+
+50
+00:02:35,240 --> 00:02:40,030
+Queremos que funcione como parte de
+una comunidad de aprendizaje en esta clase.
+
+51
+00:02:40,030 --> 00:02:45,261
+Y entonces hemos cambiado las reglas en cierto sentido,
+voltee las reglas para hacer colaboración y
+
+52
+00:02:45,261 --> 00:02:49,760
+trabajando constructivamente juntos,
+La base de esta piedra angular.
+
+53
+00:02:49,760 --> 00:02:54,635
+Y espero que seas como
+entusiasmado por esta idea de la piedra angular como
+
+54
+00:02:54,635 --> 00:02:55,235
+Somos y
+
+55
+00:02:55,235 --> 00:03:00,350
+Realmente espero ver qué es
+que vas a hacer en esta piedra angular.

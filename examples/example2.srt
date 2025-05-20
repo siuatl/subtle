@@ -1,0 +1,20 @@
+1
+00:00:00,850 --> 00:00:02,700
+Hello and welcome to the capstone.
+
+2
+00:00:02,700 --> 00:00:03,770
+We've been together now for
+
+3
+00:00:03,770 --> 00:00:08,360
+four courses and this capstone is
+supposed to be sort of summary.
+
+4
+00:00:08,360 --> 00:00:09,640
+It's more intimate.
+
+5
+00:00:09,640 --> 00:00:10,940
+It's more interesting.
